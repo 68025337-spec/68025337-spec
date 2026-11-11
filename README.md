@@ -1,5 +1,8 @@
 # Hi there, I'm <span type="placeholder" placeholder-type="person">Phongsakon Junhan</span> 👋
 
+### คติประจำใจ
+เรื่องนั้นก็เรื่องนั้น เรื่องนี้ก็เรื่องนี้
+
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of phyao</span>**
 - 💡 Interested in **Software Engineering, Web Development, UX/UI design and Tools Programming**
