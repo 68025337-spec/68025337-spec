@@ -34,8 +34,8 @@
 <div align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=68025337-spec&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=68025337-spec&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=68025337-spec&theme=react-dark&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=68025337-spec&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
